@@ -27,6 +27,6 @@ namespace Mvc_Basic.Controllers
             return View();
         }
 
-        //code đã thay đổi kiểm tra 
+        //code đã thay đổi
     }
 }
